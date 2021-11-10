@@ -1,0 +1,18 @@
+1   E basicamente a descrição da linguagem na sua forma mais irredutível, no caso do javascript: finalizadores de linha, 
+    tokens, comentário e espaço em branco, "DivPunctuator" e  "RegularExpressionLiteral", o esquema léxico define a maneira 
+    de como eles são "lidos", e consequentemente suas regras de uso.
+
+
+
+2  São porções do código ignoradas pelo interpretador/compilador, os criadores de código usam os comentários por 
+   diversos motivos, para relembrar, seccionar, dicas, notas, sugestões, alertas, informar outros editores e criadores
+   sobre do que se trata, organizar, desativar porções do código, e até mesmo como easter-egg.
+
+   Comentário de linha única é a porção de código que vem antecedido por "//;", comentário multi-linha/intra-linha é a 
+   porção do código antecedido por " /*" e sucedido por  "*/".
+
+
+
+3  São palavras que possuem uma função nativa em uma linguagem, mas há palavras ser reservadas sem função 
+   como no caso de palavras reservadas para uso futuro ou reservadas para uso em versões antigas, no caso do javascript, 
+   as palavras reservadas não podem ser usadas como identificadores.

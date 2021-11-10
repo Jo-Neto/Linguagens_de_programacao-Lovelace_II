@@ -1,0 +1,16 @@
+1-  Intra-arquivo a ordem de execução é de cima para baixo no arquivo fonte, Inter-aquivos a ordem de execução 
+depende se o script possui o parametro async ou defer ou nenhum destes, sem esse parametros o scrypt trava o carregamento
+do html até o download do script finalizar, caso possua async ou defer o script é baixado simultaneamente enquanto o restante do
+html carrega, o defer segue a ordem de execução previamente declarada, o async começa a execução assim que baixado, sem 
+os parametros ele tambem é executado assim que baixado.
+
+
+
+2-  Uma linguagem interpretada simplesmente executa as intruções conforme a aplicação as "lê", uma código de uma linguagem 
+compilada somente pode ser executado depois de passar por um pré-processamento, atualmente a maioria dos interpretadores usa
+uma técnica chamada compilação "just-in-time", que é uma espécie de mescla entre os dois tipos.
+
+
+
+3-  Mesmo conceito de css externo vs css interno, javascript externo é um arquivo .js que contém o código que sera usado
+em um outro arquivo do tipo .html, já o javascript interno possui o código no arquivo .html
