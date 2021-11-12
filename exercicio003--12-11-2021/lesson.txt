@@ -1,0 +1,12 @@
+1-  Javascript é uma linguagem que usa tipagem dinâmica de dados, isso significa que as variáveis 
+    tem seu tipo definido ao receberem um valor, em uma tipagem estatica, o tipo é atribuido no 
+    momento da declaração.
+
+
+
+2-  Em uma linguagem fortemente tipada, o tipo só pode mudar explicitamente, em uma linguagem de tipagem fraca, 
+    o tipo da variável muda dinamicamente conforme um valor é atribuído a ela. 
+
+
+
+3-  Booleano, Null, Undefined, Number, BigInt, String, Symbol.
