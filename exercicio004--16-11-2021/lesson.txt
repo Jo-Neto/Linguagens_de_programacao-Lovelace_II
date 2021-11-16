@@ -1,0 +1,20 @@
+1-   Um mecanismo no javascript, as declarações de variáveis são movidas para o topo do bloco de execução, ou seja, 
+     mesmo que declaremos as variáveis no "meio" do bloco de execução, o javascript as lê no inicio da execução do bloco,
+     antes da leitura de qualquer código daquele bloco.
+
+
+
+2-   É a "delimitação" da variável, se a variável possui um escopo local ou de bloco, ela só pode ser utilizada dentro da 
+     mesma função ou bloco respectivamente, se ela possui escopo global, ela pode ser utilizada por todo o código, 
+     incluindo funções e blocos.
+
+
+
+3-   O seguinte erro é emitido: "Identifier '(variavel)' has already been declared"
+
+
+
+4-   Caso a variavel tenha sido anteriormente declarada fora do bloco, a variavel passa a ter o valor atribuido com o "let"
+
+     Caso a variavel tenha sido anteriormente declarada no mesmo bloco, O seguinte erro é emitido: 
+     "Identifier '(variavel)' has already been declared"
