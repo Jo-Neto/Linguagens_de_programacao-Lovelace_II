@@ -1,0 +1,15 @@
+1-  São variaveis com valor imutavel/fixo, ou seja, seu valor não pode ser re-atribuido, e também não pode ser re-declarado.
+
+
+
+2-  Evitar repetições, diminuir verbosidade, evitar confusão, melhor reconhecimento semantico sobre o que a variavel representa,
+    melhor legibilidade.
+
+
+
+3-  O seguinte erro: "Assignment to constant variable."
+
+
+
+4-  Sim, utilizando o "let" ou "const" a constante muda de valor no escopo do bloco e no escopo local, e usando "var" a 
+    constante muda de valor no escopo local.
