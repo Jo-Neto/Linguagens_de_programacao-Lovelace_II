@@ -1,0 +1,18 @@
+1-   Representa um identificador, que só deve ser explicitado única e exclusivamente á um elemento de um arquivo html. 
+     assim o elemento pode ser referenciado por scripts ou stylesheets.
+
+
+
+2-   myVar = document.getElementById("id").value
+
+     sera atribuido á variavel "myVar" o valor retornado, que sera o valor de "value" do elemento referenciado pelo "id".
+
+
+
+3-   2 metodos disponiveis são:     
+	document.getElementById('id').innerText= "string de texto";      
+	document.getElementById('id').innerHTML= "string de texto"; 
+
+
+
+5-   https://jo-neto.github.io/ex-06-javascript_hobby_page/
