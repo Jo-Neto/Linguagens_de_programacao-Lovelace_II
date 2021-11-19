@@ -1,0 +1,10 @@
+1-   O método retorna um tipo "element", o(s) argumento(s) do método é(são) seletor(es) CSS, o método retorna o 
+     primeiro elemento html encontrado que corresponde ao(s) seletor(es) CSS usado(s) no argumento.
+
+
+
+2-   O primeiro elemento que o método encontra é retornado.
+
+
+
+4-   https://jo-neto.github.io/ex-007-javascript-favorite-band/
