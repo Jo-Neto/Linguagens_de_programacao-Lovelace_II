@@ -1,0 +1,16 @@
+1-   São parâmetros que a função ira utilizar para executar suas instruções, não é imperativo o uso de 
+     argumentos, os argumentos são definidos no momento em que a função é chamada, uma função que possui argumentos, 
+     necessita desses argumentos como parâmetros para poder executar as suas instruções.
+
+
+
+2-   São parâmetros que a função ira utilizar para executar suas instruções, não é imperativo o uso de argumentos, 
+     os argumentos são definidos no momento em que a função é chamada, uma função que possui argumentos, necessita 
+     desses argumentos como parâmetros para poder executar as suas instruções.
+
+
+
+4-   https://jo-neto.github.io/ex-008-identified-animal/
+
+
+
